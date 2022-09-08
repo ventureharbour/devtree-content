@@ -1,0 +1,4 @@
+name: devtree/base
+locations:
+  shows: ./shows
+  assessments: ./assess
